@@ -1,2 +1,2 @@
 # Machine_Learning_Coursera
-Programming Assignments
+Machine Learning(Coursera) weekly programming assignments.
